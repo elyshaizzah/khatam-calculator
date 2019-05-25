@@ -1,5 +1,11 @@
 #home-section{ 
 padding-top: 10%;
 min-height:100vh;
+background-color: antiquewhite;
 }
 
+ #bypages-section{
+    padding-top: 10%;
+    min-height:100vh;
+ }
+ 
